@@ -1,0 +1,238 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.570
+Hi, I'm Harshawardhan Chitnis, a software
+development and AI and machine learning engineer.
+
+00:00:05.800 --> 00:00:09.420
+I have one year of professional
+experience at Tata Consultancy Services,
+
+00:00:09.440 --> 00:00:14.870
+where I worked on enterprise software systems and gained
+hands-on experience with real-world application.
+
+00:00:15.240 --> 00:00:19.320
+I'm currently pursuing an ePostgraduate
+Diploma in Computer Science and Artificial
+
+00:00:19.340 --> 00:00:21.450
+Intelligence from IIT Bombay,
+
+00:00:21.680 --> 00:00:24.470
+further strengthening my foundation
+across computer science,
+
+00:00:24.500 --> 00:00:26.480
+artificial intelligence and machine learning.
+
+00:00:26.500 --> 00:00:29.970
+I enjoy turning real-world
+problems into practical,
+
+00:00:30.060 --> 00:00:32.670
+intelligent and reliable software solutions.
+
+00:00:33.000 --> 00:00:35.190
+Let me walk you through some of
+the projects I've built.
+
+00:00:35.540 --> 00:00:36.770
+First is ChalkBox,
+
+00:00:36.980 --> 00:00:41.010
+an AI-powered lesson planning and classroom
+assistant designed for teachers.
+
+00:00:41.300 --> 00:00:45.060
+It combines structured lesson generation
+workflows with retrieval augmented
+
+00:00:45.080 --> 00:00:49.300
+generation to create classroom-ready,
+source-grounded teaching content from
+
+00:00:49.320 --> 00:00:50.730
+textbooks and topics.
+
+00:00:50.760 --> 00:00:53.110
+The platform can generate board plans,
+
+00:00:53.440 --> 00:00:54.440
+classroom activities,
+
+00:00:54.500 --> 00:00:55.380
+assessments,
+
+00:00:55.400 --> 00:00:59.700
+flashcards, quick teaching material and
+presentation-ready outputs while maintaining
+
+00:00:59.720 --> 00:01:02.110
+grounding to the original learning material.
+
+00:01:02.400 --> 00:01:03.850
+Next is Nivaran AI,
+
+00:01:04.100 --> 00:01:07.770
+an AI-led assistant designed for
+e-commerce refund complaints.
+
+00:01:08.000 --> 00:01:10.650
+Users can upload supporting
+documents and correspondence,
+
+00:01:10.840 --> 00:01:13.850
+after which the system builds a
+source-linked fact sheet,
+
+00:01:13.880 --> 00:01:18.420
+identifies missing or conflicting information and
+helps determine the appropriate next step.
+
+00:01:18.440 --> 00:01:22.500
+It can then prepare a structured complaint
+pack while keeping important claims
+
+00:01:22.520 --> 00:01:25.030
+connected to their original supporting evidence.
+
+00:01:25.420 --> 00:01:27.110
+Next is HealthNexus AI,
+
+00:01:27.320 --> 00:01:30.250
+a healthcare resilience and
+resource management platform.
+
+00:01:30.440 --> 00:01:32.330
+It brings together demand forecasting,
+
+00:01:32.600 --> 00:01:37.360
+emergency simulation, early warnings and
+intelligent resource redistribution to help
+
+00:01:37.380 --> 00:01:40.870
+operators understand pressure before
+shortages become critical.
+
+00:01:41.060 --> 00:01:46.360
+The India demonstration covers 207 fictional
+healthcare facilities across all 36
+
+00:01:46.380 --> 00:01:47.660
+states and union territories.
+
+00:01:47.680 --> 00:01:51.850
+It supports one-day, seven-day and
+fourteen-day forecasting,
+
+00:01:52.000 --> 00:01:55.960
+emergency simulations for different
+disruption scenarios and advisory resource
+
+00:01:55.980 --> 00:02:01.450
+redistribution using optimization algorithms while
+protecting donor facilities from new shortages.
+
+00:02:01.940 --> 00:02:04.490
+Next is the Electricity Bill Management System,
+
+00:02:04.560 --> 00:02:07.910
+a full-stack application built
+using Spring Boot and Angular.
+
+00:02:08.080 --> 00:02:11.350
+It supports customer management,
+bill generation and tracking,
+
+00:02:11.480 --> 00:02:15.720
+payments, downloadable bills, complaint
+handling and administrative operations
+
+00:02:15.740 --> 00:02:17.810
+through a responsive web interface.
+
+00:02:17.940 --> 00:02:22.380
+The project also gave me practical
+experience building secure REST APIs and
+
+00:02:22.400 --> 00:02:26.110
+structured backend services for
+complete end-to-end workflows.
+
+00:02:26.620 --> 00:02:28.710
+Next is Smart Parking Intelligence,
+
+00:02:29.040 --> 00:02:33.320
+a computer vision-based system designed to
+determine parking space occupancy from
+
+00:02:33.340 --> 00:02:35.390
+images and pre-recorded video.
+
+00:02:35.560 --> 00:02:39.700
+The system analyzes individual parking
+spaces and identifies whether they are
+
+00:02:39.720 --> 00:02:40.840
+occupied or vacant.
+
+00:02:40.860 --> 00:02:45.450
+It combines computer vision, machine
+learning, parking slot geometry,
+
+00:02:45.640 --> 00:02:50.440
+historical occupancy data, analytics and
+reporting to create a complete parking
+
+00:02:50.460 --> 00:02:53.910
+intelligence workflow rather than
+simply detecting vehicles.
+
+00:02:54.740 --> 00:02:55.220
+Finally,
+
+00:02:55.240 --> 00:03:00.060
+Privacy Aware Face Analytics is an end-to-end
+computer vision platform for real-time
+
+00:03:00.080 --> 00:03:03.910
+multi-face detection, tracking
+and behavioral analytics.
+
+00:03:04.240 --> 00:03:08.520
+Privacy preserving anonymisation is integrated
+directly into the inference pipeline.
+
+00:03:08.540 --> 00:03:11.950
+The project also covers the
+machine learning lifecycle,
+
+00:03:12.180 --> 00:03:16.490
+model experimentation and versioning,
+containerized training and inference services,
+
+00:03:16.700 --> 00:03:17.700
+backend APIs,
+
+00:03:17.900 --> 00:03:23.410
+persistent analytics storage and dashboards for
+visualizing both live and historical insights.
+
+00:03:23.900 --> 00:03:28.760
+Together, these projects reflect the areas I
+enjoy working across most – artificial
+
+00:03:28.780 --> 00:03:31.870
+intelligence, machine learning, computer vision,
+
+00:03:32.000 --> 00:03:36.630
+full-stack development and building technology
+around meaningful real-world problems.
+
+00:03:36.790 --> 00:03:38.450
+Thanks for exploring my work.
+
+00:03:38.600 --> 00:03:42.450
+You can discover each of these projects in
+more detail throughout my portfolio.
